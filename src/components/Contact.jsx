@@ -4,12 +4,12 @@ function Contact() {
       <h2 className="text-xl mb-1 font-normal">Contact</h2>
       <ul className="list-disc pl-5 text-gray-600">
         <li>
-          <span className="font-medium text-gray-800">LinkedIn : </span>
+          <span className="font-medium text-gray-800 ">LinkedIn : </span>
           <a
             href="https://www.linkedin.com/in/iamit7245/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-600 hover:underline"
+            className="text-blue-600 hover:underline hover:decoration-1 hover:underline-offset-4  hover:decoration-blue-500 "
           >
             www.linkedin.com/in/iamit7245
           </a>
@@ -20,7 +20,7 @@ function Contact() {
             href="https://github.com/i-amitsingh"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-600 hover:underline"
+            className="text-blue-600 hover:underline hover:decoration-1 hover:underline-offset-4  hover:decoration-black "
           >
             www.github.com/i-amitsingh
           </a>
@@ -29,7 +29,7 @@ function Contact() {
           <span className="font-medium text-gray-800">Email : </span>
           <a
             href="mailto:amitmansingh2003@gmail.com"
-            className="text-blue-600 hover:underline"
+            className="text-blue-600 hover:underline hover:decoration-1 hover:underline-offset-4 hover:decoration-yellow-500 "
           >
             amitmansingh2003@gmail.com
           </a>

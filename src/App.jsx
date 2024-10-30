@@ -8,7 +8,7 @@ import Footer from "../Footer";
 function App() {
   return (
     <div className="flex justify-center">
-      <div className="w-[80vw] mt-12 mb-2">
+      <div className="w-[80vw] mt-6 md:mt-12 mb-2">
         <Intro />
         <About />
         <Skills />
