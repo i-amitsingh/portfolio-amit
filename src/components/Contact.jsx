@@ -11,7 +11,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
           >
-            linkedin.com/in/iamit7245
+            www.linkedin.com/in/iamit7245
           </a>
         </li>
         <li>
@@ -22,7 +22,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
           >
-            github.com/i-amitsingh
+            www.github.com/i-amitsingh
           </a>
         </li>
         <li>
